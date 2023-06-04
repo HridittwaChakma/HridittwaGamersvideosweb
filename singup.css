@@ -1,0 +1,18 @@
+.signup{
+    width: 45%;
+    height: 55%;
+    background-color: rgb(121, 120, 120);
+    border: 3px solid rgb(56, 56, 56);
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+form label{
+    display: flex;
+}
+form input{
+    border: 1px solid rgb(22, 22, 22);
+}
+button{
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+}
